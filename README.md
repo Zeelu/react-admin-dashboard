@@ -1,75 +1,56 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+React Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern and fully responsive Admin Dashboard built with React, Tailwind CSS, and Syncfusion UI.
+This application includes essential admin features like charts, analytics dashboard, kanban board, calendar, text editor, authentication page, and theme customization.
 
-## Available Scripts
+| Category                     | Features                                       |     
+| ---------------------------- | ---------------------------------------------- |
+| 🎨 **UI & Theme**            | Light/Dark Theme, Responsive Layout, Modern UI |
+| 🔐 **Authentication**        | Login Page                                     |
+| 📈 **Dashboard & Analytics** | Overview Cards, Statistical Widgets            |
+| 📊 **Charts**                | Line, Area, Bar, Pie, Pyramid, Stacked         |
+| 🗓️ **Utilities**            | Calendar, Kanban Board, Text Editor            |
+| 👥 **User Pages**            | Customers Page, Employees Page, Orders Page    |
+| 💬 **Communication**         | Notification Panel, Chat UI                    |
+| ⚙️ **State Management**      | React Context API                              |
+| 🧩 **UI Library**            | Syncfusion Components                          |
+| 🎯 **Performance**           | Lightweight & Optimized                        |           
 
-In the project directory, you can run:
+| Technology    | Description             |
+| ------------- | ----------------------- |
+| React         | UI Framework            |
+| Tailwind CSS  | Styling                 |
+| Syncfusion UI | Charts, Tables, Widgets |
+| Context API   | State Management        |
+| React Router  | Routing                 |
 
-### `npm start`
+Folder Structure :
+/src
+ ┣ components/
+ ┣ pages/
+ ┣ contexts/
+ ┣ data/
+ ┣ App.js
+ ┣ index.js
+/public
+tailwind.config.js
+package.json
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+About the Developer :
+👨‍💻 Zeel Parmar
+React Developer  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Screenshots: 
 
-### `npm test`
+Installation & Setup :
+git clone https://github.com/Zeelu/react-admin-dashboard.git
+cd react-admin-dashboard
+npm install
+npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Build For Production :
+npm run build
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# react-admin-dashboard
-A fully functional React Admin Dashboard featuring dynamic charts, tables, theme switching, calendar, kanban board, and responsive UI. Built with modern UI components and API integration to manage and visualize data efficiently.
->>>>>>> a496e8086799eee34d726fa3c36c2c96367dd8d6
+Status: ✅ Completed and maintained
+If you like this project
+Feel free to ⭐️ the repository and connect!
